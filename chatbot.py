@@ -10,7 +10,7 @@
 import streamlit as st 
 from openai import OpenAI 
 
-modelo_ia = OpenAI(api_key="AQ.Ab8RN6Ktme0Gvak67Exo4H739owK-ZINAKooatFb9zN0P9QXVw",
+modelo_ia = OpenAI(api_key="",
                    base_url="https://generativelanguage.googleapis.com/v1beta/openai")
 
 st.write("# ChatBot Renata")
